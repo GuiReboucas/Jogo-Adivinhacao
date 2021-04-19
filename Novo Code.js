@@ -64,3 +64,5 @@ if (contTentativas1 < contTentativas2) { // Printa Placar
 }else {
     console.log("Empate")
 }
+
+var Resenha = "Chocolate"
