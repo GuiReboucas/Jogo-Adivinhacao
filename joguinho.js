@@ -98,5 +98,3 @@ if (contTentativas1 < contTentativas2) {
 } else {
   console.log("Empate");
 }
-
-// alguma coisa simples
